@@ -14,11 +14,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     remussn
+zhihu_username:     remussn
+github_username:    remussn
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  remussn
 
 
 
@@ -49,12 +49,12 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: Remussn
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#_username: remussn
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
