@@ -9,5 +9,7 @@ tags:
     - 生活
 ---
 
-![P1]({{ "img/in-post/post-tucao/tucao22_1.PNG" | prepend: site.baseurl }})
-![P2]({{ "img/in-post/post-tucao/tucao22_2.PNG" | prepend: site.baseurl }})
+![P1]({{ "/img/in-post/post-tucao/tucao22_1.PNG" | prepend: site.baseurl }})
+![P2]({{ "/img/in-post/post-tucao/tucao22_2.PNG" | prepend: site.baseurl }})
+
+https://remussn.github.io/2018/01/27/tucao-test/img/in-post/post-tucao/tucao22_1.PNG
