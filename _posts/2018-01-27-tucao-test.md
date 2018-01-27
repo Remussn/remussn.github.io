@@ -9,5 +9,5 @@ tags:
     - 生活
 ---
 
-![P1]({{ "/master/img/in-post/post-tucao/tucao22_1.png" | prepend: site.baseurl }})
-![P2]({{ "/master/img/in-post/post-tucao/tucao22_2.png" | prepend: site.baseurl }})
+![P1]({{ "img/in-post/post-tucao/tucao22_1.PNG" | prepend: site.baseurl }})
+![P2]({{ "img/in-post/post-tucao/tucao22_2.PNG" | prepend: site.baseurl }})
